@@ -1,1 +1,1 @@
-# QR
+# QR-code decoder & encoder
